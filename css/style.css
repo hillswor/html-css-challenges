@@ -1,3 +1,14 @@
 body {
 	margin: 0;
 }
+
+h1 {
+	font-size: 72px;
+	background: #281B2D;
+	color: #FFF;
+	margin-top: 0;
+	text-align: center;
+	padding: 25px 0;
+} 
+
+
