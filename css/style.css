@@ -57,6 +57,6 @@ h1 {
     width: 30%;
 }
 
-.flex-column {
-	margin: 10px;
+.col-right {
+    margin-left: 25px;
 }
